@@ -1,3 +1,5 @@
+#Given a list of numbers (integers), find second maximum and second minimum in this list.
+
 val=input("Enter the numbers here: ").split()
 valint=[int(v) for v in val]
 #print(valint)

@@ -1,7 +1,7 @@
 # Python Lab Assignments (mckvie 3rd sem CSE)
 This repository contains basic Python programs completed as part of my college lab assignments. This repository contains a collection of beginner-friendly Python programs that demonstrate fundamental concepts of the Python programming language.
 
-: Table of Contents :
+: Table of Contents :\n
 Assignment 01 : Introduction to python Program and concept of Data Types
 Assignment 02 : Concept of Variables and Operators
 Assignment 03 : Concept of Operators and Conditional Statement

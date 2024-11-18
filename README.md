@@ -8,7 +8,8 @@ Assignment 03 : Concept of Operators and Conditional Statement
 Assignment 04 : Concept of Loop Structure and Use of break and continue  
 Assignment 05 : Concept of String and string manipulation  
 Assignment 06 : Concept of List, Tuple, Set, Dictionaries  
-Assignment 07 : Concept of Functions, Recursion and High-level functions
+Assignment 07 : Concept of Functions, Recursion and High-level functions  
+Assignment 08 : Concept of Modules and Packages
 
 
 This repository serves as a practical resource for mastering Python fundamentals. Each program is designed to reinforce basic programming skills, providing clear examples of essential concepts. It's a great starting point for anyone new to Python or looking to strengthen their foundational understanding.
